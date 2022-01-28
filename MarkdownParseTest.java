@@ -13,7 +13,7 @@ public class MarkdownParseTest {
         assertEquals(2, 1 + 1);
     }
 
-    HashMap<String, ArrayList<String>> fileMap;
+    HashMap<String, ArrayList<String>> fileMap = new HashMap<>();
     
     @Before
     public void setupMap() {
