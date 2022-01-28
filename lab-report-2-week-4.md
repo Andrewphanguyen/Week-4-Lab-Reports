@@ -13,3 +13,11 @@ Symptom:
 Test File Link: 
 https://github.com/Andrewphanguyen/Week-4-Lab-Reports/blob/main/test3.md
 Symptom 
+![alt text](4.jpg)
+* The bug is that the program had a missing bracket and so the code wasn't able to compile
+* The symptom is that the program had a error of wrong syntax in the code
+* The failure inducing input was using the testfile.md file in order to do the test which failed and created symptoms in the command line
+
+# Code # 3
+![alt text](7.jpg)
+Test File Link: 
