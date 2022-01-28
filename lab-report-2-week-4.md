@@ -21,3 +21,9 @@ Symptom
 # Code # 3
 ![alt text](7.jpg)
 Test File Link: 
+https://github.com/Andrewphanguyen/Week-4-Lab-Reports/blob/main/Test1.md
+Symptom
+![alt text](8.jpg)
+* The bug is that the HashMap was expecting a string Array as the value of the HashMap instead of an ArrayList and so the types were wrong
+* The symptom was that the program couldn't identify what the variable was due to the types being wrong 
+* The failure inducing input was using the testfile1.md file in order to test the Hashmap getting input of the string array which as a result created a error.
