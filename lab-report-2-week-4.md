@@ -10,3 +10,6 @@ Symptom:
 * 
 # Code # 2
 ![alt text](3.jpg)
+Test File Link: 
+https://github.com/Andrewphanguyen/Week-4-Lab-Reports/blob/main/test3.md
+Symptom 
