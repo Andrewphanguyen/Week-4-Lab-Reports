@@ -2,7 +2,7 @@
 ![alt text](1.jpg)
 Link to test file for this failure-inducing input:
 
-[test-file3.md](test-file3.md) 
+[test-file3.md](test-file3.html) 
 
 Symptom: 
 ![alt text](2.jpg)
@@ -14,7 +14,7 @@ Symptom:
 ![alt text](3.jpg)
 Link to test file for this failure-inducing input:
 
-[test-file3.md](test-file3.md) 
+[test-file3.md](test-file3.html) 
 
 Symptom 
 ![alt text](4.jpg)
@@ -26,7 +26,7 @@ Symptom
 ![alt text](7.jpg)
 Link to test file for this failure-inducing input:
 
-[test-file.md](test-file.md) 
+[test-file.md](test-file.html) 
 
 
 Symptom
