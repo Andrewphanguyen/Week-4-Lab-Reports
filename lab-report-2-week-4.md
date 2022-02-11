@@ -1,7 +1,7 @@
 # Code # 1
 ![alt text](1.jpg)
 Test File Link:
-https://github.com/LastEternity/markdown-parse/blob/3cbde9abe9ad0e7fa132a829febae18b1140e4fd/test-file-three.md 
+test-file3.md 
 Symptom: 
 ![alt text](2.jpg)
 * The bug is that the program had a neverending loop where the program markdown file isn't a link 
