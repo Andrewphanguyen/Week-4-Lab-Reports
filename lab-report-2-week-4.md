@@ -2,7 +2,7 @@
 ![alt text](1.jpg)
 Link to test file for this failure-inducing input:
 
-[Test File 3](test-file3.md) 
+[Test File 3](test3.md) 
 
 Symptom: 
 ![alt text](2.jpg)
