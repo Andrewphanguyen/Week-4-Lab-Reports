@@ -2,7 +2,7 @@
 ![alt text](1.jpg)
 Link to test file for this failure-inducing input:
 
-[Test File 3](test-file3.md) 
+[test-file3.md](test-file3.md) 
 
 Symptom: 
 ![alt text](2.jpg)
@@ -14,7 +14,7 @@ Symptom:
 ![alt text](3.jpg)
 Link to test file for this failure-inducing input:
 
-[Test File 3](test-file3.md) 
+[test-file3.md](test-file3.md) 
 
 Symptom 
 ![alt text](4.jpg)
@@ -26,10 +26,11 @@ Symptom
 ![alt text](7.jpg)
 Link to test file for this failure-inducing input:
 
-[Test File 1](test-file.md) 
+[test-file.md](test-file.md) 
 
 
 Symptom
+
 ![alt text](8.jpg)
 * The bug is that the HashMap was expecting a string Array as the value of the HashMap instead of an ArrayList and so the types were wrong
 * The symptom was that the program couldn't identify what the variable was due to the types being wrong 
