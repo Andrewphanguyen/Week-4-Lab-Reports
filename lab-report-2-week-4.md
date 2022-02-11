@@ -1,7 +1,9 @@
 # Code # 1
 ![alt text](1.jpg)
-Test File Link:
-test-file3.md 
+Link to test file for this failure-inducing input:
+
+[Test File 3]test-file3.md 
+
 Symptom: 
 ![alt text](2.jpg)
 * The bug is that the program had a neverending loop where the program markdown file isn't a link 
@@ -10,7 +12,8 @@ Symptom:
 * 
 # Code # 2
 ![alt text](3.jpg)
-Test File Link: 
+Link to test file for this failure-inducing input:
+
 https://github.com/Andrewphanguyen/Week-4-Lab-Reports/blob/main/test3.md
 Symptom 
 ![alt text](4.jpg)
@@ -20,7 +23,8 @@ Symptom
 
 # Code # 3
 ![alt text](7.jpg)
-Test File Link: 
+Link to test file for this failure-inducing input:
+
 https://github.com/Andrewphanguyen/Week-4-Lab-Reports/blob/main/Test1.md
 Symptom
 ![alt text](8.jpg)
