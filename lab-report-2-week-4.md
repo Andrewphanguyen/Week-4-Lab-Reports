@@ -15,6 +15,7 @@ Symptom:
 Link to test file for this failure-inducing input:
 
 [Test File 3](test-file3.md) 
+
 Symptom 
 ![alt text](4.jpg)
 * The bug is that the program had a missing bracket and so the code wasn't able to compile
@@ -26,6 +27,8 @@ Symptom
 Link to test file for this failure-inducing input:
 
 [Test File 1](test-file.md) 
+
+
 Symptom
 ![alt text](8.jpg)
 * The bug is that the HashMap was expecting a string Array as the value of the HashMap instead of an ArrayList and so the types were wrong
