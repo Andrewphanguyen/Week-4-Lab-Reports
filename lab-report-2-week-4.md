@@ -22,6 +22,11 @@ Symptom + failed inducing input
 
 `[, hello.html]`
 
+* The bug is that when it look for characters []() in that order it might take a input seen in the test file 2 such that the order may not actually refer to a link.
+* The symptom we get is an weird output where we are expecting [hello.html]
+* But in reality we get [, hello.html] since our output detects the links improperly.
+
+
 # Code # 3
 ![alt text](7.jpg)
 Link to test file for this failure-inducing input:
