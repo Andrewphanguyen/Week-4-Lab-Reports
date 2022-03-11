@@ -11,7 +11,7 @@ Symptom:
 * The symptom index out of bound exception created a error due to the array the failure inducing input neverending looping.
 * 
 # Code # 2
-![alt text](lab2code.PNG)
+![alt text](lab2code.png)
 Link to test file for this failure-inducing input:
 
 [test2.md](test2.html) 
