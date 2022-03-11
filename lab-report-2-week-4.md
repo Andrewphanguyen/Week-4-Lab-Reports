@@ -14,7 +14,7 @@ Symptom:
 ![alt text](3.jpg)
 Link to test file for this failure-inducing input:
 
-[test-file3.md](test-file3.html) 
+[test2.md](test2.html) 
 
 Symptom + failed inducing input
 
