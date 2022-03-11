@@ -16,11 +16,11 @@ Link to test file for this failure-inducing input:
 
 [test-file3.md](test-file3.html) 
 
-Symptom 
-![alt text](4.jpg)
-* The bug is that the program had a missing bracket and so the code wasn't able to compile
-* The symptom is that the program had a error of wrong syntax in the code
-* The failure inducing input was using the testfile.md file in order to do the test which failed and created symptoms in the command line
+Symptom + failed inducing input
+
+`java MarkdownParse test2.md`
+
+`[, hello.html]`
 
 # Code # 3
 ![alt text](7.jpg)
